@@ -1,4 +1,4 @@
-package io.github.edadma.texish
+package io.github.edadma.titler
 
 import io.github.edadma.char_reader.CharReader
 
